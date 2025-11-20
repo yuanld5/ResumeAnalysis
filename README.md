@@ -34,6 +34,7 @@ pip install -r requirements.txt
 - unstructured: 用于解析非结构化文档
 - langchain: LangChain核心库
 - langchain-community: LangChain社区集成
+- langextract: 利用大型语言模型从非结构化文本中提取结构化信息
 
 ## 使用
 
